@@ -1,4 +1,0 @@
-Nginx配置规则错误:
-nginx: the configuration file /www/server/nginx/conf/nginx.conf syntax is ok
-nginx: [emerg] open() "/www/server/code-server/access.log" failed (2: No such file or directory)
-nginx: configuration file /www/server/nginx/conf/nginx.conf test failed
